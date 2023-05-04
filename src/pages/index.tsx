@@ -8,13 +8,14 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
+
     <main
-      className={`md:pt-2 mt-8 flex min-h-screen flex-col items-center justify-between md:p-24 p-4  ${inter.className}`}
+      className={`md:pt-2 mt-8 flex min-h-screen flex-col items-center justify-between md:p-24 p-2  ${inter.className}`}
     >
 
       <BlurCircle />
 
-      <div className="grid text-center lg:mb-0 lg:grid-cols-2 lg:text-left ">
+      <div className="grid text-center grid-cols-0 lg:mb-0 lg:grid-cols-2 lg:text-left ">
         {myApps.map((app) => (
 
           <SingleApp key={app.link} {...app} />
