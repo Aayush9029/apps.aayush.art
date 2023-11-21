@@ -56,3 +56,4 @@ export const SingleApp = React.memo(({ app }: { app: SingleAppType }) => {
         </a>
     );
 });
+SingleApp.displayName = 'SingleApp';
