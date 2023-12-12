@@ -5,22 +5,22 @@ export default function TOSPage() {
             <h2>End-User License Agreement (EULA) for Float</h2>
 
             <p>
-                This End-User License Agreement ("EULA") is a binding legal contract
+                This End-User License Agreement (&quot;EULA&quot;) is a binding legal contract
                 between you (either an individual or a single entity) and Float, the
                 developer of the Float software application.
             </p>
 
             <p>
                 This EULA governs your acquisition and use of the Float software
-                ("Software"), whether obtained directly from Float or through a Float
-                authorized reseller or distributor ("Reseller").
+                (&quot;Software&quot;), whether obtained directly from Float or through a Float
+                authorized reseller or distributor (&quot;Reseller&quot;).
             </p>
 
             <p>
                 Before installing and using the Float software, please read this EULA
                 carefully. It grants a license to use the Float software and includes
                 warranty information and liability disclaimers. Your agreement to these
-                terms is signified by clicking "accept" or by installing and using the
+                terms is signified by clicking &quot;accept&quot; or by installing and using the
                 Float software.
             </p>
 
