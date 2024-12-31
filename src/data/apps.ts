@@ -5,7 +5,7 @@ export const myApps: SingleApp[] = [
         name: 'Armed',
         description: "A macOS app offering security monitoring for your MacBook in public places.",
         bannerImage: 'armed-mac.png',
-        link: 'https://github.com/Aayush9029/Armed',
+        link: 'https://apps.apple.com/ph/app/armed-keep-an-eye/id6448712915?mt=12',
         tint: '#000',
         source: Source.Github,
     },
