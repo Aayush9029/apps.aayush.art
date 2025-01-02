@@ -3,6 +3,14 @@ import { SingleApp, Source } from "@/types/AppstoreApp";
 export const myApps: SingleApp[] = [
     {
         name: 'Armed',
+        description: "AI-powered companion that helps you track, understand, and improve your emotional intelligence.",
+        bannerImage: 'notto-banner.jpg',
+        link: 'https://lovedoingthings.com',
+        tint: '#000',
+        source: Source.AppStore,
+    },
+    {
+        name: 'Armed',
         description: "A macOS app offering security monitoring for your MacBook in public places.",
         bannerImage: 'armed-mac.png',
         link: 'https://apps.apple.com/ph/app/armed-keep-an-eye/id6448712915?mt=12',
