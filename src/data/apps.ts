@@ -2,7 +2,7 @@ import { SingleApp, Source } from "@/types/AppstoreApp";
 
 export const myApps: SingleApp[] = [
     {
-        name: 'Armed',
+        name: 'Notto',
         description: "AI-powered companion that helps you track, understand, and improve your emotional intelligence.",
         bannerImage: 'notto-banner.jpg',
         link: 'https://lovedoingthings.com',
